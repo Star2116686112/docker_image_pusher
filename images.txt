@@ -1,7 +1,1 @@
-alpine
-python:alpine3.19
-kasmweb/nginx:1.25.3
-nyanmisaka/jellyfin
-linuxserver/jackett
-allanpk716/chinesesubfinder
 stainless403/mdcx-builtin-gui-base
